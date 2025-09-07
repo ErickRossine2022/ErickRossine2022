@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 Minhas Stats no GitHub
+## 📊 Meus Status no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickRossine2022&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
